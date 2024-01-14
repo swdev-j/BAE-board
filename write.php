@@ -21,7 +21,6 @@
                     <div class="form-floating">
                         <input type="text" class="form-control" id="title" name="title" placeholder="Write a title of board" required>
                         <label for="title">Write a title of board</label>
-                        <!-- <div id="TitleHelp" class="form-text"></div> -->
                     </div>
                 </div>
                 <div class="mb-3">
