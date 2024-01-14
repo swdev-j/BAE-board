@@ -1,13 +1,5 @@
 <?php
     include_once 'templates/functions.php';
-    // create table bae_board(
-    //     id int auto_increment,
-    //     title varchar(60) not null,
-    //     content text not null,
-    //     view int not null default 0,
-    //     created_at timestamp,
-    //     primary key(id)
-    // ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 ?><!DOCTYPE html>
 <html lang="en">
 <head>
